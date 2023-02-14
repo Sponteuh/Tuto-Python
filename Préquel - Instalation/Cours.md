@@ -9,4 +9,6 @@ Mais pour pouvoir faire tout ça, il va vous falloir un $\color{red}{Environemen
   - Spyder
   - Atom, etc...
 
-Je conseil d'utiliser Thonny car c'est ce que j'utilise et ce que je vais mettre dans mes exemples, donc si vous commencez, prennez Thonny, mais libre a vous de faire comme vous voulez
+Je conseil d'utiliser Thonny car c'est ce que j'utilise et ce que je vais mettre dans mes exemples, donc si vous commencez, prennez Thonny, mais libre a vous de faire comme vous voulez !
+
+Donc rendez vous sur le site de [Thonny](https://thonny.org/) !
