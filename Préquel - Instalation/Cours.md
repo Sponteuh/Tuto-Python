@@ -11,4 +11,6 @@ Mais pour pouvoir faire tout ça, il va vous falloir un $\color{red}{Environemen
 
 Je conseil d'utiliser Thonny car c'est ce que j'utilise et ce que je vais mettre dans mes exemples, donc si vous commencez, prennez Thonny, mais libre a vous de faire comme vous voulez !
 
-Donc rendez vous sur le site de [Thonny](https://thonny.org/) !
+Donc rendez vous sur le site de [Thonny](https://thonny.org/), et on installe la dernière en fonction de notre système d'exploitation.
+
+Après l'avoir installer, on se retrouve avec cette page :
