@@ -13,4 +13,4 @@ Je conseil d'utiliser Thonny car c'est ce que j'utilise et ce que je vais mettre
 
 Donc rendez vous sur le site de [Thonny](https://thonny.org/), et on installe la dernière en fonction de notre système d'exploitation.
 
-Après l'avoir installer, on se retrouve avec cette page :
+Après l'avoir lancé, on se retrouve avec cette page :
